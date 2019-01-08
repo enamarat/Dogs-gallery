@@ -1,0 +1,41 @@
+body {
+  background-color: yellow;
+  font-family: 'Charm', cursive, serif;
+}
+
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+#breeds {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.card {
+  margin-top: 1rem;
+}
+
+.card img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+}
+
+a {
+  color: blue;
+}
+
+p {
+  margin-top: 2rem;
+  text-align: center;
+}
